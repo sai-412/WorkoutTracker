@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9y6HTAC6uLw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saira\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

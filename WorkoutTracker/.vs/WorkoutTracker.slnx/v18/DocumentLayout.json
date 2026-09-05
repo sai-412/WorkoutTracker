@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|c:\\users\\saira\\documents\\privat\\projects\\workouttracker\\workouttracker\\workouttracker\\components\\pages\\workouttrackerdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|solutionrelative:workouttracker\\components\\pages\\workouttrackerdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|c:\\users\\saira\\documents\\privat\\projects\\workouttracker\\workouttracker\\workouttracker\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|solutionrelative:workouttracker\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|c:\\users\\saira\\documents\\privat\\projects\\workouttracker\\workouttracker\\workouttracker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|solutionrelative:workouttracker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|c:\\users\\saira\\documents\\privat\\projects\\workouttracker\\workouttracker\\workouttracker\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|solutionrelative:workouttracker\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|c:\\users\\saira\\documents\\privat\\projects\\workouttracker\\workouttracker\\workouttracker\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|solutionrelative:workouttracker\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|c:\\users\\saira\\documents\\privat\\projects\\workouttracker\\workouttracker\\workouttracker\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|solutionrelative:workouttracker\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|c:\\users\\saira\\documents\\privat\\projects\\workouttracker\\workouttracker\\workouttracker\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|solutionrelative:workouttracker\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|c:\\users\\saira\\documents\\privat\\projects\\workouttracker\\workouttracker\\workouttracker\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|solutionrelative:workouttracker\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|c:\\users\\saira\\documents\\privat\\projects\\workouttracker\\workouttracker\\workouttracker\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E8535F-5EA7-4B7D-9733-23C469D1C4F9}|WorkoutTracker\\WorkoutTracker.csproj|solutionrelative:workouttracker\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WorkoutTracker\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WorkoutTracker\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T18:48:33.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkoutTrackerDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\WorkoutTrackerDashboard.razor",
+              "RelativeDocumentMoniker": "WorkoutTracker\\Components\\Pages\\WorkoutTrackerDashboard.razor",
+              "ToolTip": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\WorkoutTrackerDashboard.razor",
+              "RelativeToolTip": "WorkoutTracker\\Components\\Pages\\WorkoutTrackerDashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T18:48:13.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "WorkoutTracker\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\_Imports.razor",
+              "RelativeToolTip": "WorkoutTracker\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T18:47:32.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "WorkoutTracker\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Routes.razor",
+              "RelativeToolTip": "WorkoutTracker\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T18:47:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "WorkoutTracker\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "WorkoutTracker\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T18:47:26.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "WorkoutTracker\\Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "WorkoutTracker\\Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T18:47:25.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "WorkoutTracker\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "WorkoutTracker\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T18:46:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\App.razor",
+              "RelativeDocumentMoniker": "WorkoutTracker\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\App.razor",
+              "RelativeToolTip": "WorkoutTracker\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T18:46:26.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "WorkoutTracker\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\saira\\Documents\\Privat\\Projects\\WorkoutTracker\\WorkoutTracker\\WorkoutTracker\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "WorkoutTracker\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T18:46:44.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
