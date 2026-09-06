@@ -1,0 +1,35 @@
+﻿<table>
+    <tr>
+        <th>Exercise</th>
+        <th>Weight</th>
+        <th>Sets</th>
+        <th>Reps</th>
+    </tr>
+    @foreach (var exercise in exercises)
+    {
+        <tr>
+            <td><input type="text" @bind="exercise.exerciseName" /></td>
+            <td><input type="number" @bind="exercise.weight" /></td>
+            <td><input type="number" @bind="exercise.sets" /></td>
+            <td><input type="number" @bind="exercise.reps" /></td>
+        </tr>
+    }
+</table>
+
+@code {
+    private List<Exercise> exercises = new();
+
+    public void AddExercise()
+    {
+        exercises.Add(new Exercise());
+        StateHasChanged();
+    }
+
+    public class Exercise
+    {
+        public string exerciseName { get; set; } = "";
+        public int sets { get; set; }
+        public int reps { get; set; }
+        public decimal weight { get; set; }
+    }
+}

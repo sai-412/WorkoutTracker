@@ -361,6 +361,10 @@ main[b-phwweaxd61] {
         opacity: 0;
     }
 }
+/* /Components/Shared/ExerciseTable.razor.rz.scp.css */
+table[b-1wc8f2wzxo], th[b-1wc8f2wzxo], td[b-1wc8f2wzxo] {
+    border:1px solid black;
+}   
 /* /Components/Shared/NewButton.razor.rz.scp.css */
 
 .button[b-t2t31yy0i7] {
