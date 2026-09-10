@@ -25,7 +25,7 @@
     {
         for (int i = 0; i < 6; i++)
         {
-            exercises.Add(new Exercise{exerciseName = "", reps = 10, sets = 3, weight = 20});
+            exercises.Add(new Exercise{exerciseName = "", reps = null, sets = null, weight = null});
         }
     }
 
@@ -44,8 +44,8 @@
     public class Exercise
     {
         public string exerciseName { get; set; } = "";
-        public int sets { get; set; }
-        public int reps { get; set; }
-        public decimal weight { get; set; }
+        public int? sets { get; set; }
+        public int? reps { get; set; }
+        public decimal? weight { get; set; }
     }
 }
