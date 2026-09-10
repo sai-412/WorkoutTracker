@@ -1,17 +1,19 @@
-﻿<table>
+﻿<NewButton ButtonName="+ New Exercise" OnClickCallback="AddExercise"></NewButton>
+<table>
     <tr>
         <th>Exercise</th>
-        <th>Weight</th>
         <th>Sets</th>
         <th>Reps</th>
+        <th>Weight (kg)</th> 
     </tr>
     @foreach (var exercise in exercises)
     {
         <tr>
-            <td><input type="text" @bind="exercise.exerciseName" /></td>
-            <td><input type="number" @bind="exercise.weight" /></td>
-            <td><input type="number" @bind="exercise.sets" /></td>
-            <td><input type="number" @bind="exercise.reps" /></td>
+            <td><input type="text" placeholder="Enter Exercise Name" @bind="exercise.exerciseName" /></td>
+            <td><input type="number" placeholder="3" @bind="exercise.sets" /></td>
+            <td><input type="number" placeholder="12" @bind="exercise.reps" /></td>
+            <td><input type="number" placeholder="40" @bind="exercise.weight" /></td>
+            <td><NewButton ButtonName="Delete" OnClickCallback="() => DeleteExercise(exercise)"></NewButton></td>
         </tr>
     }
 </table>
@@ -19,9 +21,23 @@
 @code {
     private List<Exercise> exercises = new();
 
+    protected override void OnInitialized()
+    {
+        for (int i = 0; i < 6; i++)
+        {
+            exercises.Add(new Exercise{exerciseName = "", reps = 10, sets = 3, weight = 20});
+        }
+    }
+
     public void AddExercise()
     {
         exercises.Add(new Exercise());
+        StateHasChanged();
+    }
+
+    public void DeleteExercise(Exercise exercise)
+    {
+        exercises.Remove(exercise);
         StateHasChanged();
     }
 

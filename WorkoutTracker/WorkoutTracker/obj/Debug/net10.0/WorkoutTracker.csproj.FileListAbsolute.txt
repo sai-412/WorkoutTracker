@@ -84,5 +84,5 @@ C:\Users\saira\Documents\Privat\Projects\WorkoutTracker\WorkoutTracker\WorkoutTr
 C:\Users\saira\Documents\Privat\Projects\WorkoutTracker\WorkoutTracker\WorkoutTracker\obj\Debug\net10.0\ref\WorkoutTracker.dll
 C:\Users\saira\Documents\Privat\Projects\WorkoutTracker\WorkoutTracker\WorkoutTracker\obj\Debug\net10.0\scopedcss\Components\Shared\NewButton.razor.rz.scp.css
 C:\Users\saira\Documents\Privat\Projects\WorkoutTracker\WorkoutTracker\WorkoutTracker\obj\Debug\net10.0\scopedcss\Components\Shared\ExerciseTable.razor.rz.scp.css
-C:\Users\saira\Documents\Privat\Projects\WorkoutTracker\WorkoutTracker\WorkoutTracker\obj\Debug\net10.0\compressed\evs96v45u8-{0}-khcpdxueg8-khcpdxueg8.gz
-C:\Users\saira\Documents\Privat\Projects\WorkoutTracker\WorkoutTracker\WorkoutTracker\obj\Debug\net10.0\compressed\vczzy29c6d-{0}-khcpdxueg8-khcpdxueg8.gz
+C:\Users\saira\Documents\Privat\Projects\WorkoutTracker\WorkoutTracker\WorkoutTracker\obj\Debug\net10.0\compressed\evs96v45u8-{0}-uoizyiui9v-uoizyiui9v.gz
+C:\Users\saira\Documents\Privat\Projects\WorkoutTracker\WorkoutTracker\WorkoutTracker\obj\Debug\net10.0\compressed\vczzy29c6d-{0}-uoizyiui9v-uoizyiui9v.gz

@@ -1,6 +1,5 @@
 ﻿@page "/"
 @rendermode InteractiveServer
-@using WorkoutTracker.Components.Shared
 @namespace WorkoutTracker.Components.Shared
 <PageTitle>Home</PageTitle>
 
@@ -8,18 +7,11 @@
 
 
 <div>
-    <h2>Exercises</h2>
-    <NewButton ButtonName="+ New Exercice" OnClickCallback="HandleAddExercise"></NewButton>
-    <ExerciseTable @ref="exerciseTable"></ExerciseTable>
+    <ExerciseTable></ExerciseTable>
 </div>
 
 @code 
 {
-    private ExerciseTable exerciseTable;
 
-    private void HandleAddExercise()
-    {
-        exerciseTable.AddExercise();
-    }
 }
     
