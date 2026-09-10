@@ -1,1 +1,10 @@
-﻿
+﻿td button img {
+    width: 27px;
+    height: 27px;
+}
+
+td button {
+    background: none;
+    border: none;
+    padding: 5px;
+}

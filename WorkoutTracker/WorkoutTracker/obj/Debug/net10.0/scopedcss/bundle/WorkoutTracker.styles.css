@@ -362,6 +362,16 @@ main[b-phwweaxd61] {
     }
 }
 /* /Components/Shared/ExerciseTable.razor.rz.scp.css */
+td button img[b-1wc8f2wzxo] {
+    width: 27px;
+    height: 27px;
+}
+
+td button[b-1wc8f2wzxo] {
+    background: none;
+    border: none;
+    padding: 5px;
+}
 /* /Components/Shared/NewButton.razor.rz.scp.css */
 
 .button[b-t2t31yy0i7] {

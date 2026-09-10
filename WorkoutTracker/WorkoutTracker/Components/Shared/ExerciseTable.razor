@@ -13,7 +13,8 @@
             <td><input type="number" placeholder="3" @bind="exercise.sets" /></td>
             <td><input type="number" placeholder="12" @bind="exercise.reps" /></td>
             <td><input type="number" placeholder="40" @bind="exercise.weight" /></td>
-            <td><NewButton ButtonName="Delete" OnClickCallback="() => DeleteExercise(exercise)"></NewButton></td>
+            <td><button @onclick="() => DeleteExercise(exercise)"><img src="Images/Trash-Icon.png" alt="Delete"/></button></td>
+
         </tr>
     }
 </table>
